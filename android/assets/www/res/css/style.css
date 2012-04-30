@@ -1,0 +1,10 @@
+a.menu-item {
+	display: block;
+	font-weight: bold;
+	padding: 1em;
+	text-decoration: none;
+	text-transform: uppercase;
+	background: -webkit-linear-gradient(top, #fff, #ddd);
+	border-radius: 10px;
+	box-shadow: 1px 1px 4px #768395;	
+}
